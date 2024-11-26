@@ -3,7 +3,8 @@
 
 <div align="center">
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heitorpriston) 
+<a href="https://www.linkedin.com/in/heitorpriston/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=heitorpriston&theme=darcula&hide_border=true&include_all_commits=false&count_private=false)<br/>
