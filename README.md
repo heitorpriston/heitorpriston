@@ -15,6 +15,4 @@
 # 💻 Tech Stack:
 ![](https://skillicons.dev/icons?i=python,django,flask)
 ---
-[![](https://visitcount.itsvg.in/api?id=heitorpriston&icon=1&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
