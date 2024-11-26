@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heitorpriston) 
 
 # 💻 Tech Stack:
-![](https://skillicons.dev/icons?i=python, django, flask)
+![](https://skillicons.dev/icons?i=python,django,flask)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=heitorpriston&theme=darcula&hide_border=true&include_all_commits=false&count_private=false)<br/>
